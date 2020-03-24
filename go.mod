@@ -4,7 +4,7 @@ go 1.11
 
 require (
 	github.com/whenspeakteam/pg/v9 v9.0.3
-	github.com/go-pg/urlstruct" v0.3.0
+	github.com/go-pg/urlstruct v0.3.0
 	github.com/go-pg/zerochecker v0.1.1
 	github.com/jinzhu/inflection v1.0.0
 	github.com/onsi/ginkgo v1.10.1
