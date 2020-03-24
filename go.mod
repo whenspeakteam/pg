@@ -3,7 +3,7 @@ module github.com/whenspeakteam/pg/v9
 go 1.11
 
 require (
-	github.com/whenspeakteam/pg/v9 v9.0.3
+	github.com/whenspeakteam/pg/v9 v9.0.4
 	github.com/go-pg/urlstruct v0.3.0
 	github.com/go-pg/zerochecker v0.1.1
 	github.com/jinzhu/inflection v1.0.0
